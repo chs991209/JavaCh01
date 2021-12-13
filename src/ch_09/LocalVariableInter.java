@@ -10,8 +10,12 @@ public class LocalVariableInter {
         System.out.println(j);
         System.out.println(str);
 
-        var str2 = str ;
+        var str2 = str;
         System.out.println(str2);
+
+        var str3 = 12L;
+        var str4 = str3;
+
 
     }
 }

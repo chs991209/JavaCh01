@@ -8,5 +8,6 @@ public class VariableTest {
         System.out.println(lNum);
         //        int num = 12345;
 
+
     }
 }

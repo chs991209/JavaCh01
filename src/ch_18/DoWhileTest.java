@@ -28,6 +28,8 @@ public class DoWhileTest {
 
 // input = 1일 때 sum += input을 실행하면 안될 때
 
+
+
 //Scanner scanner = new Scanner(System.in);
 //
 //        int input;

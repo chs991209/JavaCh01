@@ -1,11 +1,11 @@
 package ch_01;
 
 public class UserInfo {
-    String userId;
-    String userPassword;
-    String userName;
-    String address;
-    int phoneNumber;
+    public String userId;
+    public String userPassword;
+    public String userName;
+    public String address;
+    public int phoneNumber;
 
 
 }

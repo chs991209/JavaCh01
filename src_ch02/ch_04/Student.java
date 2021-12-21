@@ -6,7 +6,7 @@ public class Student {
     public String studentaddress;
 
     public void showStudentInfo() {
-        System.out.println( studentID + " Student's Name is " + studentName + "/n Address is " + studentaddress + ".");
+        System.out.println( studentID + " Student's Name is " + studentName + "\n Address is " + studentaddress + ".");
     }
 
     public String getStudentName() {

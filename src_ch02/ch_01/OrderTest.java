@@ -10,7 +10,7 @@ public class OrderTest {
         orderMon.staffId = "Monster";
         orderMon.productId = 1;
 
-        orderMon.orderId = 00001;
+        orderMon.orderId = 1;
 
 //        Log
         System.out.println("--------------------------------");
@@ -31,7 +31,7 @@ public class OrderTest {
         orderTue.orderDay = "Tuesday";
         orderTue.staffId = "Tune";
         orderTue.productId = 2;
-        orderTue.orderId = 00002;
+        orderTue.orderId = 2;
 //        Log : Basic Format
 
         System.out.println( orderTue.orderDay + " Receipt");
